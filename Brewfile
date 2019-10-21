@@ -1,7 +1,8 @@
 tap "homebrew/cask"
-brew "zsh"
+
 brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
+brew "unrar"
 cask "appcleaner"
 cask "iterm2"
 cask "macdown"

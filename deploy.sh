@@ -11,4 +11,5 @@
 # 安装rvm
 ./install_rvm.sh
 # 安装ruby
-./install_ruby_use_rvm.sh 2.6.3
+./install_ruby_use_rvm.sh 3.0.0
+
